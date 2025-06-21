@@ -1,0 +1,1 @@
+/Users/mac/Desktop/lernen_app/lernen-flutter-app/build/app/intermediates/cxx/Debug/15ba1i5b/obj/arm64-v8a

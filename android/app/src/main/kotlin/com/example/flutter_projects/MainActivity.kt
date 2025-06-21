@@ -1,0 +1,6 @@
+package com.amentotech.lernen
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

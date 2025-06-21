@@ -1,0 +1,10 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="timer" clip-path="url(#clip0_16266_16521)">
+<path id="Ellipse 10765" d="M7.99967 8.03776L4.66634 6.03646M7.99967 3.03581V1.36849C11.6816 1.36849 14.6663 4.35326 14.6663 8.03516C14.6663 11.7171 11.6816 14.7018 7.99967 14.7018C4.31778 14.7018 1.33301 11.7171 1.33301 8.03516C1.33301 5.96735 2.27443 4.11943 3.75206 2.89662" stroke="#585858" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_16266_16521">
+<rect width="16" height="16" fill="white"/>
+</clipPath>
+</defs>
+</svg>
